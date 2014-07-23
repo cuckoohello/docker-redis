@@ -16,7 +16,7 @@ This repository forks from [dockerfile/redis](https://github.com/dockerfile/redi
 
 2. Download [cuckoohello/redis](https://registry.hub.docker.com/u/cuckoohello/redis/) from public [Docker Registry](https://index.docker.io/): `docker pull cuckoohello/redis`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="cuckoohello/redis" github.com/cuckoohello/redis`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="cuckoohello/redis" github.com/cuckoohello/docker-redis`)
 
 
 ### Usage
